@@ -2,7 +2,7 @@
 the classic naval battle game developed in a website
 
 ***
-    ### THE GAME
+- ### THE GAME
 
     `hosted on altervista`
 
