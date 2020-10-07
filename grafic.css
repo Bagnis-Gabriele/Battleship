@@ -1,0 +1,89 @@
+body{
+    background-color: darkblue;
+}
+
+#principale {
+    margin-top: 10px;
+    width: 100%;
+    align-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+#titolo{
+    color: chartreuse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.btnSelezione {
+    width: 60%;
+    height: 100px;
+    text-align: center;
+    align-self: center;
+    align-items: center;
+    margin: 10px;
+    border-color: chartreuse;
+    background-color: darkblue;
+    color: chartreuse;
+    font-size: 200%;
+}
+
+.testoSelezione{
+    color: chartreuse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.casella{
+    height: 20px;
+    width: 20px;
+    margin: 0px;
+    border-width: 1px;
+    border-color: chartreuse;
+    background-color: darkblue;
+}
+
+.mare{
+    height: 20px;
+    width: 20px;
+    margin: 0px;
+    border-width: 1px;
+    border-color: chartreuse;
+    background-color: rgb(0, 255, 200);
+}
+
+.barca{
+    height: 20px;
+    width: 20px;
+    margin: 0px;
+    border-width: 1px;
+    border-color: chartreuse;
+    background-color: rgb(21, 2, 43);
+}
+
+.selezionata{
+    height: 20px;
+    width: 20px;
+    margin: 0px;
+    border-width: 1px;
+    border-color: chartreuse;
+    background-color: red;
+}
+
+.titoloTabella{
+    color: chartreuse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.conferma{
+    width: 40%;
+    height: 60px;
+    text-align: center;
+    align-self: center;
+    align-items: center;
+    margin: 10px;
+    border-color: chartreuse;
+    background-color: darkblue;
+    color: chartreuse;
+    font-size: 200%;
+}
